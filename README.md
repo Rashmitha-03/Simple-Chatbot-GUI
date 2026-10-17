@@ -1,4 +1,4 @@
-# Kasturba Hospital HelpDesk
+# KMX Hospital chatbot GUI
 
 A desktop help-desk chat interface built with Python and Tkinter. The app displays a welcome message and lets users enter messages in a simple chat window.
 
